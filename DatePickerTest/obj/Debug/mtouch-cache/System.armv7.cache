@@ -1,0 +1,1 @@
+--debug --aot=mtriple=armv7-darwin,full,static,asmonly,direct-icalls,no-direct-calls,iphone-abi,outfile=/System.dll.armv7.s "/Users/scdsoft/Documents/Andy/dev/spielwiese/DatePickerTest/DatePickerTest/bin/iPhone/Debug/DatePickerTest.app/System.dll"
