@@ -11,6 +11,8 @@ namespace DatePickerTest
 	{
 
 		ActionSheetDatePicker datePicker;
+		string andy;
+
 
 
 
